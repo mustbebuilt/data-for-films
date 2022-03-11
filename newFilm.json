@@ -1,0 +1,9 @@
+{
+  "filmTitle": "Test Film",
+  "filmCertificate": "PG",
+  "filmDescription": "My Test Film.",
+  "filmImage": "test.jpg",
+  "filmPrice": 10.99,
+  "stars": 4,
+  "releaseDate": "2022-02-27T00:00:00"
+}
