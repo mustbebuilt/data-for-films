@@ -1,7 +1,16 @@
+-- phpMyAdmin SQL Dump
+-- version 4.9.10
+-- https://www.phpmyadmin.net/
+--
+-- Generation Time: Mar 13, 2022 at 05:02 PM
+-- Server version: 5.7.36-log
+-- PHP Version: 7.0.33-0+deb9u12
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
+
 
 
 -- --------------------------------------------------------
