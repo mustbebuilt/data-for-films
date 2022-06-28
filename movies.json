@@ -1,5 +1,14 @@
 [
 {
+"filmTitle": "Cinema Paradiso",
+"filmCertificate": "15",
+"filmDescription": "A famous film director returns home to a Sicilian village for the first time after almost 30 years. He reminisces about his childhood at the Cinema Paradiso where Alfredo, the projectionist, first brought about his love of films. He is also reminded of his lost teenage love, Elena, who he had to leave before he left for Rome.",
+"filmImage": "cinemaParadiso.jpg",
+"filmPrice": "0.99",
+"stars": "5",
+"releaseDate": "1988-02-23"
+},
+{
 "filmTitle": "Hear My Song",
 "filmCertificate": "15",
 "filmDescription": "Nightclub owner Mickey O'Neill (Adrian Dunbar), a fast-talking charmer, has figured out a way to save his financial sinkhole of a business: book famous Irish tenor Josef Locke (William Hootkins) for a performance. There are several major problems, however -- Locke has been in exile for years and the man O'Neill has been in contact with is a con artist. O'Neill's reputation is destroyed, but, when the real Locke (Ned Beatty) shows up to perform, his luck may turn for the better.",
@@ -18,13 +27,13 @@
 "releaseDate": "1994-02-17"
 },
 {
-"filmTitle": "The Usual Suspects",
-"filmCertificate": "18",
-"filmDescription": "Following a truck hijack in New York, five conmen are arrested and brought together for questioning. As none of them is guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser Söze is felt. It becomes clear that each one of them has wronged Söze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser Söze?",
-"filmImage": "usualSuspects.jpg",
+"filmTitle": "Harry Potter and the Philosopher's Stone",
+"filmCertificate": "PG",
+"filmDescription": "Sometimes the best plan is to do things by the book. With over 100 million Harry Potter readers desperate to rush down cinema aisles to see their hero on the big screen for the first time, you can't blame Chris Columbus for sticking close to J.K. Rowling's novel. It's one thing to let your imagination loose with the words on the page; it's another to have those images backed up by a multi-million dollar Hollywood budget. And from the very first sight of an owl perched on the Privet Drive road sign to the closing shot of the Hogwarts Express pulling away from the station with the majestic school sitting high on the hills behind, we know that every golden galleon has been well spent.",
+"filmImage": "philosopherStone.jpg",
 "filmPrice": "1.00",
 "stars": "5",
-"releaseDate": "1995-08-25"
+"releaseDate": "2001-11-16"
 },
 {
 "filmTitle": "Fargo",
@@ -36,13 +45,13 @@
 "releaseDate": "1996-05-31"
 },
 {
-"filmTitle": "L.A. Confidential",
-"filmCertificate": "18",
-"filmDescription": "1950's Los Angeles is the seedy backdrop for this intricate noir-ish tale of police corruption and Hollywood sleaze. Three very different cops are all after the truth, each in their own style: Ed Exley, the golden boy of the police force, willing to do almost anything to get ahead, except sell out; Bud White, ready to break the rules to seek justice, but barely able to keep his raging violence under control; and Jack Vincennes, always looking for celebrity and a quick buck until his conscience drives him to join Exley and White down the one-way path to find the truth behind the dark world of L.A. crime.",
-"filmImage": "laConfidential.jpg",
+"filmTitle": "Jurassic World Dominion",
+"filmCertificate": "PG",
+"filmDescription": "Dinosaur blockbuster picks up four years after the destruction of Isla Nublar, dinosaurs now live--and hunt--alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures in a new Era.",
+"filmImage": "jurassicWorldDominion.jpg",
 "filmPrice": "1.00",
 "stars": "3",
-"releaseDate": "1997-10-31"
+"releaseDate": "2022-06-10"
 },
 {
 "filmTitle": "The Big Lebowski",
@@ -529,5 +538,41 @@
 "filmPrice": "9.99",
 "stars": "5",
 "releaseDate": "2019-10-04"
+},
+{
+"filmTitle": "Elvis",
+"filmCertificate": "12A",
+"filmDescription": "If we were to pull back the curtain on Elvis Presley, what would we even want to see? A soul stripped of its performance? Something cold and real behind the kitsch? I’m not convinced. America’s pop icons aren’t merely shiny distractions. They're a culture talking back to itself, constantly interrogating its own ideals and its desires. I don’t think who Elvis was is necessarily more important than what Elvis represents. And, while you won’t find all that much truth in Baz Luhrmann’s cradle-to-grave dramatisation of his life, the Australian filmmaker has delivered something far more compelling: an American fairytale.",
+"filmImage": "elvis.jpg",
+"filmPrice": "5.00",
+"stars": "4",
+"releaseDate": "2022-06-24"
+},
+{
+"filmTitle": "The Lost City",
+"filmCertificate": "12",
+"filmDescription": "Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to an ancient city's lost treasure from her latest story. Determined to prove he can be a hero in real life and not just on the pages of her books, Alan sets off to rescue her.",
+"filmImage": "lostCity.jpg",
+"filmPrice": "4.00",
+"stars": "3",
+"releaseDate": "2022-04-15"
+},
+{
+"filmTitle": "Belfast",
+"filmCertificate": "12",
+"filmDescription": "BELFAST is a drama in which a boy's future in his home town hangs in the balance when violence breaks out. Kenneth Branagh’s unabashedly feelgood memoir of growing up in Belfast as the Troubles erupted in the late 1960s suffers from a problem of perspective. Nine-year-old Buddy (newcomer Jude Hill) hops, skips and jumps through rows of chocolate-box terrace houses to a bouncy soundtrack of Van Morrison. His family, which includes Judi Dench and Ciarán Hinds’s cutesy Granny and Pop, find solace at the movies.",
+"filmImage": "belfast.jpg",
+"filmPrice": "5.00",
+"stars": "4",
+"releaseDate": "2022-01-21"
+},
+{
+"filmTitle": "The Railway Children Return",
+"filmCertificate": "PG",
+"filmDescription": "Sequel to the 1970 classic, follows a group of children who are evacuated to a Yorkshire village during the Second World War, where they encounter a young soldier who, like them, is far away from home.",
+"filmImage": "railwayChildrenReturn.jpg",
+"filmPrice": "4.00",
+"stars": "3",
+"releaseDate": "2022-07-15"
 }
 ]
