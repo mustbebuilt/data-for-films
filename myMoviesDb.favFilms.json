@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "651290b2d2dfa7fdcd31afa5"
+  },
+  "filmTitle": "Oppenheimer",
+  "filmCertificate": "15",
+  "filmDescription": "A brilliant physicist takes on the task of designing the ultimate weapon in this brooding and political US biopic, but will the atom bomb ensure world peace or bring about the destruction of humankind?",
+  "filmImage": "oppenheimer.jpg",
+  "filmPrice": "0.99",
+  "stars": "5",
+  "releaseDate": {
+    "$date": "2023-07-21T00:00:00.000Z"
+  },
+  "actors": [
+    "651292eed2dfa7fdcd31afaa",
+    "6512931fd2dfa7fdcd31afac"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65129226d2dfa7fdcd31afa7"
+  },
+  "filmTitle": "The Wonder",
+  "filmCertificate": "15",
+  "filmDescription": "The trauma of the Great Famine still looms over the community, and many locals are wary of the English nurse. Lib meets Anna's deeply religious family: her mother Rosaleen, her father Malachy and her elder sister Kitty. At dinner, Lib learns that Anna's elder brother died of an unknown illness. Anna herself appears in good health and says she has been kept alive by consuming \"manna from Heaven\".",
+  "filmImage": "thewonder.jpg",
+  "filmPrice": "1.50",
+  "stars": "5",
+  "releaseDate": {
+    "$date": "2022-09-02T00:00:00.000Z"
+  },
+  "actors": [
+    "651292eed2dfa7fdcd31afaa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "651293d1d2dfa7fdcd31afae"
+  },
+  "filmTitle": "The Wind That Shakes the Barley",
+  "filmCertificate": "15",
+  "filmDescription": "The Wind That Shakes the Barley is a 2006 Irish war drama film directed by Ken Loach, set during the Irish War of Independence (1919–1921) and the Irish Civil War (1922–1923).",
+  "filmImage": "windbarley.jpg",
+  "filmPrice": "4.99",
+  "stars": "3",
+  "releaseDate": {
+    "$date": "2006-06-23T00:00:00.000Z"
+  },
+  "actors": [
+    "6512931fd2dfa7fdcd31afac"
+  ]
+}]
