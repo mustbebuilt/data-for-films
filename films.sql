@@ -111,9 +111,8 @@ INSERT INTO `Films` (`filmID`, `filmTitle`, `filmCertificate`, `filmDescription`
 (65, 'Oppenheimer', '15', 'A brilliant physicist takes on the task of designing the ultimate weapon in this brooding and political US biopic, but will the atom bomb ensure world peace or bring about the destruction of humankind?', 'oppenheimer.jpg', '5.99', 4, '2023-07-21'),
 (66, 'The Wonder', '15', 'The trauma of the Great Famine still looms over the community, and many locals are wary of the English nurse. Lib meets Anna\'s deeply religious family: her mother Rosaleen, her father Malachy and her elder sister Kitty. At dinner, Lib learns that Anna\'s elder brother died of an unknown illness. Anna herself appears in good health and says she has been kept alive by consuming \"manna from Heaven\".', 'thewonder.jpg', '3.99', 5, '2022-09-02'),
 (67, 'The Wind That Shakes the Barley', '15', 'The Wind That Shakes the Barley is a 2006 Irish war drama film directed by Ken Loach, set during the Irish War of Independence (1919–1921) and the Irish Civil War (1922–1923).', 'windbarley.jpg', '2.99', 5, '2006-06-23'),
-(68, 'Barbie', 'PG', 'Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go
-to the real
-world, they soon discover the joys and perils of living among humans.', 'barbie.jpg', '9.99', 4, '2023-07-21');
+(68, 'Barbie', 'PG', 'Barbie
+and Ken enjoy an idyllic life in Barbie Land, but when they explore the real world, they encounter the pleasures and challenges of living among humans.', 'barbie.jpg', '9.99', 4, '2023-07-21');
 
 --
 -- Indexes for dumped tables
