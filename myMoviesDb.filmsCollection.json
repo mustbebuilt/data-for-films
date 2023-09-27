@@ -6,24 +6,10 @@
   "filmCertificate": "15",
   "filmDescription": "A famous film director returns home to a Sicilian village for the first time after almost 30 years. He reminisces about his childhood at the Cinema Paradiso where Alfredo, the projectionist, first brought about his love of films. He is also reminded of his lost teenage love, Elena, who he had to leave before he left for Rome.",
   "filmImage": "cinemaParadiso.jpg",
-  "filmPrice": "0.99",
+  "filmPrice": 0.99,
   "stars": "5",
   "releaseDate": {
-    "$date": "1988-02-23T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "6482d42a1899696c75fbc806"
-  },
-  "filmTitle": "Hear My Song",
-  "filmCertificate": "15",
-  "filmDescription": "Nightclub owner Mickey O'Neill (Adrian Dunbar), a fast-talking charmer, has figured out a way to save his financial sinkhole of a business: book famous Irish tenor Josef Locke (William Hootkins) for a performance. There are several major problems, however -- Locke has been in exile for years and the man O'Neill has been in contact with is a con artist. O'Neill's reputation is destroyed, but, when the real Locke (Ned Beatty) shows up to perform, his luck may turn for the better.",
-  "filmImage": "hearMySong.jpg",
-  "filmPrice": "1.50",
-  "stars": "5",
-  "releaseDate": {
-    "$date": "1991-03-13T00:00:00.000Z"
+    "$date": "1988-02-03T00:00:00.000Z"
   }
 },
 {
@@ -64,9 +50,7 @@
   "filmImage": "fargo.jpg",
   "filmPrice": "1.99",
   "stars": "5",
-  "releaseDate": {
-    "$date": "1996-05-31T00:00:00.000Z"
-  }
+  "releaseDate": "1996-05-31T00:00:00.000Z"
 },
 {
   "_id": {
@@ -892,5 +876,75 @@
   "stars": "3",
   "releaseDate": {
     "$date": "2022-07-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65130f4c04fe7f1d3df17b1c"
+  },
+  "filmTitle": "Oppenheimer",
+  "filmCertificate": "15",
+  "filmDescription": "A brilliant physicist takes on the task of designing the ultimate weapon in this brooding and political US biopic, but will the atom bomb ensure world peace or bring about the destruction of humankind?",
+  "filmImage": "oppenheimer.jpg",
+  "filmPrice": "5.99",
+  "stars": "4",
+  "releaseDate": {
+    "$date": "2023-07-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651326bb04fe7f1d3df17b26"
+  },
+  "filmTitle": "The Wind That Shakes the Barley",
+  "filmCertificate": "15",
+  "filmDescription": "The Wind That Shakes the Barley is a 2006 Irish war drama film directed by Ken Loach, set during the Irish War of Independence (1919–1921) and the Irish Civil War (1922–1923).",
+  "filmImage": "windbarley.jpg",
+  "filmPrice": "2.99",
+  "stars": "5",
+  "releaseDate": {
+    "$date": "2006-06-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651328f004fe7f1d3df17b28"
+  },
+  "filmTitle": "Barbie",
+  "filmCertificate": "PG",
+  "filmDescription": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+  "filmImage": "barbie.jpg",
+  "filmPrice": "9.99",
+  "stars": "4",
+  "releaseDate": {
+    "$date": "2023-07-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6513292a04fe7f1d3df17b2a"
+  },
+  "filmTitle": "The Wonder",
+  "filmCertificate": "15",
+  "filmDescription": "The trauma of the Great Famine still looms over the community, and many locals are wary of the English nurse. Lib meets Anna's deeply religious family: her mother Rosaleen, her father Malachy and her elder sister Kitty. At dinner, Lib learns that Anna's elder brother died of an unknown illness. Anna herself appears in good health and says she has been kept alive by consuming \"manna from Heaven\".",
+  "filmImage": "thewonder.jpg",
+  "filmPrice": "3.99",
+  "stars": "5",
+  "releaseDate": {
+    "$date": "2022-09-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6453d4357c0324a7d58e3de2"
+  },
+  "filmCertificate": "15",
+  "filmName": "Hear My Song",
+  "filmDescription": "Nightclub owner Mickey O'Neill (Adrian Dunbar), a fast-talking charmer, has figured out a way to save his financial sinkhole of a business: book famous Irish tenor Josef Locke (William Hootkins) for a performance. There are several major problems, however -- Locke has been in exile for years and the man O'Neill has been in contact with is a con artist. O'Neill's reputation is destroyed, but, when the real Locke (Ned Beatty) shows up to perform, his luck may turn for the better.",
+  "filmImage": "hearMySong.jpg",
+  "filmPrice": "1.50",
+  "filmReview": 5,
+  "releaseDate": {
+    "$date": "1991-03-13T00:00:00.000Z"
   }
 }]
